@@ -14,6 +14,7 @@ This application uses AWS Amplify, a GraphQL API built with AWS AppSync, AWS Lam
 5. Build the Frontend: Link the app’s frontend with the backend.
 
 ## Host a Static Website
+First 
 
 ## Manage Users
 
